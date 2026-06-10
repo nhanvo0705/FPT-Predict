@@ -1,6 +1,6 @@
 # Dự Đoán Xu Hướng Cổ Phiếu FPT Bằng Thuật Toán XGBoost
 
-Dự án này triển khai một hệ thống giao dịch thuật toán (Algorithmic Trading) hoàn chỉnh trên môi trường Python (Jupyter Notebook), sử dụng mô hình học máy **XGBoost Classifier** kết hợp cùng bộ công cụ backtest **VectorBT** và **QuantStats**. Mục tiêu của mô hình là dự đoán xu hướng tăng giá của cổ phiếu FPT tại thị trường chứng khoán Việt Nam.
+### Dự án này triển khai một hệ thống giao dịch thuật toán (Algorithmic Trading) hoàn chỉnh trên môi trường Python (Jupyter Notebook), sử dụng mô hình học máy **XGBoost Classifier** kết hợp cùng bộ công cụ backtest **VectorBT** và **QuantStats**. Mục tiêu của mô hình là dự đoán xu hướng tăng giá của cổ phiếu FPT tại thị trường chứng khoán Việt Nam.
 ---
 
 ## BƯỚC 1: CÀI ĐẶT THƯ VIỆN
